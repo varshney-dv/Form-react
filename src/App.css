@@ -1,0 +1,38 @@
+.formInput label{
+    font-weight: bolder;
+    text-shadow: 0px 0px 1px rgba(255, 0, 0, 0.63);
+    font-size: larger;
+}
+.formInput input,textarea,select{
+    border: 1px solid black;
+    box-shadow:1px 1px 2px rgb(0, 195, 255);
+    text-align: center;
+    width: 300px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.formInput textarea{
+    height: 100px;
+}
+.new label{
+    font-weight: normal;
+    text-shadow: 0px 0px 0px rgba(255, 0, 0, 0.63);
+    font-size: 20x;
+    
+}
+.new input{
+    border: 0px;
+    width:auto;
+}
+.checkbox-btn{
+    box-shadow: none !important;
+}
+option{
+    background-color: black;
+    border: 2px solid wheat;
+}
+.dropdown{
+    background-color: rgb(0, 174, 255);
+    border: 2px solid black;
+    box-shadow: none;
+}
